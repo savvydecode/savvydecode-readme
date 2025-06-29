@@ -1,4 +1,4 @@
-# savvydecode-readme
+# Hi there, I'm [ Stephen Addo]! 👋
 ## About Me
 
 I'm a passionate Frontend Engineer with a robust foundation in software engineering, thanks to my comprehensive learning experience with the ALX program. My expertise lies in HTML, CSS, and JavaScript, which I leverage to build innovative, user-centric, and scalable frontend applications.
